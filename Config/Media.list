@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,photos.googleapis.com
-#YouTube
+# YouTube
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,modpim.com
+# Microsoft
+DOMAIN-SUFFIX,arc.msn.com
+DOMAIN-SUFFIX,skype.com
