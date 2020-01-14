@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
+# > OneDrive
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
 # > Others
 DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,pool.ntp.org
