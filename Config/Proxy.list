@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,contentstorage.osi.office.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.net
 # > Others
-DOMAIN-keyword,cloudflare
+DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,cookiebot.com
 DOMAIN-SUFFIX,crossutility.com
 DOMAIN,statuse.digitalcertvalidation.com
