@@ -1,6 +1,7 @@
 # > Google Drive
 DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,photos.googleapis.com
+DOMAIN,www.googleapis.com
 # > Onedrive
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,1drv.com
