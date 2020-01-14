@@ -5,20 +5,3 @@ DOMAIN-SUFFIX,photos.googleapis.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-# Onedrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-SUFFIX,cdn.office.net
-DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,svc.ms
-DOMAIN-SUFFIX,modpim.com
-# Microsoft
-DOMAIN-SUFFIX,arc.msn.com
-DOMAIN-SUFFIX,skype.com
