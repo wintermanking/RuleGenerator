@@ -1,3 +1,9 @@
+# > APPLE
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,ocsp.usertrust.com
+DOMAIN-SUFFIX,ocsp.identrust.com
+DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org
+DOMAIN-SUFFIX,mozilla.com
 # > Microsoft
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,acompli.helpshift.com
@@ -15,3 +21,8 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
+# > Others
+DOMAIN-SUFFIX,ntp.nasa.gov
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,v2ex.com
+IP-CIDR,239.255.255.250/32
