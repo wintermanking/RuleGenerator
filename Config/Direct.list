@@ -26,6 +26,7 @@ DOMAIN,officecdn-microsoft-com.akamaized.net
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 # > Others
+DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,v2ex.com
