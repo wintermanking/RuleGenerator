@@ -30,4 +30,5 @@ DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,ntp.nasa.gov
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,jcpt.hbky.com
 IP-CIDR,239.255.255.250/32
