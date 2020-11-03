@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+# > AWS
+DOMAIN-SUFFIX,amazonaws.com
