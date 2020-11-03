@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.net
 # > Others
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,cookiebot.com
 DOMAIN-SUFFIX,crossutility.com
 DOMAIN,statuse.digitalcertvalidation.com
