@@ -29,3 +29,6 @@ DOMAIN,dove.589669.xyz
 DOMAIN-SUFFIX,time.is
 DOMAIN,p14-buy.itunes.apple.com
 DOMAIN-SUFFIX,1password.com
+DOMAIN-KEYWORD,todesk
+IP-CIDR,113.31.117.131/32
+IP-CIDR,112.50.94.100/32
